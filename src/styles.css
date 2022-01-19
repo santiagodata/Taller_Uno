@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+html, body{
+  background-color: #000;
+  color: white;
+}
+
+img{
+  padding: 2%;
+  width: 280px;
+  height: 350px;
+}
+
+h3{
+  color: #000;
+  text-align: center;
+  padding: 2%;
+}
